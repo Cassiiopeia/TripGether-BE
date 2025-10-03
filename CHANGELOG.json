@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "lastUpdated": "2025-10-03T11:57:12Z",
+    "currentVersion": "0.0.4",
+    "projectType": "spring",
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.0.4",
+      "project_type": "spring",
+      "date": "2025-10-03",
+      "pr_number": 8,
+      "raw_summary": "Summary by CodeRabbit\n\n문서\n\nREADME 문서 업데이트 개선\n\n\n작업\n\n릴리스 노트 추가 및 버전 업데이트",
+      "parsed_changes": {
+        "문서": {
+          "title": "문서",
+          "items": [
+            "README 문서 업데이트 개선"
+          ]
+        },
+        "작업": {
+          "title": "작업",
+          "items": [
+            "릴리스 노트 추가 및 버전 업데이트"
+          ]
+        }
+      }
+    }
+  ]
+}
